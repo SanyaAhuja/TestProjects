@@ -1,0 +1,7 @@
+C:\Users\sahuja\source\repos\Stringletters\Stringletters\obj\Debug\Stringletters.csproj.CoreCompileInputs.cache
+C:\Users\sahuja\source\repos\Stringletters\Stringletters\bin\Debug\Stringletters.exe.config
+C:\Users\sahuja\source\repos\Stringletters\Stringletters\bin\Debug\Stringletters.exe
+C:\Users\sahuja\source\repos\Stringletters\Stringletters\bin\Debug\Stringletters.pdb
+C:\Users\sahuja\source\repos\Stringletters\Stringletters\obj\Debug\Stringletters.exe
+C:\Users\sahuja\source\repos\Stringletters\Stringletters\obj\Debug\Stringletters.pdb
+C:\Users\sahuja\source\repos\Stringletters\Stringletters\obj\Debug\Stringletters.csprojAssemblyReference.cache

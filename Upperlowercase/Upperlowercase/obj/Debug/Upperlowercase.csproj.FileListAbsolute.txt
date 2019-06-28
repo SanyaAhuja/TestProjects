@@ -1,0 +1,7 @@
+C:\Users\sahuja\source\repos\Upperlowercase\Upperlowercase\bin\Debug\Upperlowercase.exe.config
+C:\Users\sahuja\source\repos\Upperlowercase\Upperlowercase\bin\Debug\Upperlowercase.exe
+C:\Users\sahuja\source\repos\Upperlowercase\Upperlowercase\bin\Debug\Upperlowercase.pdb
+C:\Users\sahuja\source\repos\Upperlowercase\Upperlowercase\obj\Debug\Upperlowercase.csprojAssemblyReference.cache
+C:\Users\sahuja\source\repos\Upperlowercase\Upperlowercase\obj\Debug\Upperlowercase.csproj.CoreCompileInputs.cache
+C:\Users\sahuja\source\repos\Upperlowercase\Upperlowercase\obj\Debug\Upperlowercase.exe
+C:\Users\sahuja\source\repos\Upperlowercase\Upperlowercase\obj\Debug\Upperlowercase.pdb

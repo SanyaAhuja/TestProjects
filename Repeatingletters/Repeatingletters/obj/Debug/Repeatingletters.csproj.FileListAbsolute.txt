@@ -1,0 +1,7 @@
+C:\Users\sahuja\source\repos\Repeatingletters\Repeatingletters\bin\Debug\Repeatingletters.exe.config
+C:\Users\sahuja\source\repos\Repeatingletters\Repeatingletters\bin\Debug\Repeatingletters.exe
+C:\Users\sahuja\source\repos\Repeatingletters\Repeatingletters\bin\Debug\Repeatingletters.pdb
+C:\Users\sahuja\source\repos\Repeatingletters\Repeatingletters\obj\Debug\Repeatingletters.csprojAssemblyReference.cache
+C:\Users\sahuja\source\repos\Repeatingletters\Repeatingletters\obj\Debug\Repeatingletters.csproj.CoreCompileInputs.cache
+C:\Users\sahuja\source\repos\Repeatingletters\Repeatingletters\obj\Debug\Repeatingletters.exe
+C:\Users\sahuja\source\repos\Repeatingletters\Repeatingletters\obj\Debug\Repeatingletters.pdb

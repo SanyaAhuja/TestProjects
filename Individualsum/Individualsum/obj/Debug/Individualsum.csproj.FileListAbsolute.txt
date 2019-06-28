@@ -1,0 +1,7 @@
+C:\Users\sahuja\source\repos\Individualsum\Individualsum\bin\Debug\Individualsum.exe.config
+C:\Users\sahuja\source\repos\Individualsum\Individualsum\bin\Debug\Individualsum.exe
+C:\Users\sahuja\source\repos\Individualsum\Individualsum\bin\Debug\Individualsum.pdb
+C:\Users\sahuja\source\repos\Individualsum\Individualsum\obj\Debug\Individualsum.csprojAssemblyReference.cache
+C:\Users\sahuja\source\repos\Individualsum\Individualsum\obj\Debug\Individualsum.csproj.CoreCompileInputs.cache
+C:\Users\sahuja\source\repos\Individualsum\Individualsum\obj\Debug\Individualsum.exe
+C:\Users\sahuja\source\repos\Individualsum\Individualsum\obj\Debug\Individualsum.pdb

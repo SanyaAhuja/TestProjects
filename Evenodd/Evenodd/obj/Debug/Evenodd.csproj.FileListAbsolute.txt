@@ -1,0 +1,7 @@
+C:\Users\sahuja\source\repos\Evenodd\Evenodd\obj\Debug\Evenodd.csprojAssemblyReference.cache
+C:\Users\sahuja\source\repos\Evenodd\Evenodd\obj\Debug\Evenodd.csproj.CoreCompileInputs.cache
+C:\Users\sahuja\source\repos\Evenodd\Evenodd\bin\Debug\Evenodd.exe.config
+C:\Users\sahuja\source\repos\Evenodd\Evenodd\bin\Debug\Evenodd.exe
+C:\Users\sahuja\source\repos\Evenodd\Evenodd\bin\Debug\Evenodd.pdb
+C:\Users\sahuja\source\repos\Evenodd\Evenodd\obj\Debug\Evenodd.exe
+C:\Users\sahuja\source\repos\Evenodd\Evenodd\obj\Debug\Evenodd.pdb
